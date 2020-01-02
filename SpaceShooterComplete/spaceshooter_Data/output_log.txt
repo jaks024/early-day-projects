@@ -1,0 +1,34 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950 (ID=0x1402)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.494 seconds
+Platform assembly: C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jackson\Desktop\Files\Unreleased Unity Games\SpaceShooterComplete\spaceshooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3280x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.538600 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 323c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.421600 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 802.
+Total: 2.257000 ms (FindLiveObjects: 0.017200 ms CreateObjectMapping: 0.021200 ms MarkObjects: 0.111000 ms  DeleteObjects: 2.107100 ms)
+
