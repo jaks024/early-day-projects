@@ -1,0 +1,13 @@
+C:\Users\ye774\Desktop\Visual Studio\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.exe.config
+C:\Users\ye774\Desktop\Visual Studio\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.exe
+C:\Users\ye774\Desktop\Visual Studio\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.pdb
+C:\Users\ye774\Desktop\Visual Studio\Dice Rolls\Dice Rolls\obj\Debug\Dice Rolls.csprojResolveAssemblyReference.cache
+C:\Users\ye774\Desktop\Visual Studio\Dice Rolls\Dice Rolls\obj\Debug\Dice Rolls.exe
+C:\Users\ye774\Desktop\Visual Studio\Dice Rolls\Dice Rolls\obj\Debug\Dice Rolls.pdb
+C:\Users\Jackson\Desktop\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.exe.config
+C:\Users\Jackson\Desktop\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.exe
+C:\Users\Jackson\Desktop\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.pdb
+C:\Users\Jackson\Desktop\Dice Rolls\Dice Rolls\obj\Debug\Dice Rolls.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Desktop\Dice Rolls\Dice Rolls\obj\Debug\Dice Rolls.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Dice Rolls\Dice Rolls\obj\Debug\Dice Rolls.exe
+C:\Users\Jackson\Desktop\Dice Rolls\Dice Rolls\obj\Debug\Dice Rolls.pdb

@@ -1,0 +1,36 @@
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\bin\Debug\Xamarin Dot.dll
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\bin\Debug\Xamarin Dot.pdb
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\bin\Debug\Xamarin_Dot.Xamarin_Dot.apk
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\bin\Debug\Xamarin_Dot.Xamarin_Dot-Signed.apk
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\Xamarin Dot.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\Xamarin Dot.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\Xamarin Dot.dll
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\Xamarin Dot.pdb
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\android\bin\Xamarin_Dot.Xamarin_Dot.apk
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\res\layout\main.xml
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\res\values\strings.xml
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\R.cs.flag
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\uploadflags.txt
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\bin\Debug\Xamarin Dot.dll.mdb
+C:\Users\Jackson\Desktop\Xamarin Projects\Xamarin Dot\Xamarin Dot\obj\Debug\android\assets\Xamarin Dot.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Xamarin Dot.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

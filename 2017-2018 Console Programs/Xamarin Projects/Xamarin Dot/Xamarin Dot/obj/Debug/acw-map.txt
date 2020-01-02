@@ -1,0 +1,4 @@
+Xamarin_Dot.MainActivity, Xamarin Dot;md5d521a97579a959b0ce5dfff2e07cdd3f.MainActivity
+Xamarin_Dot.MainActivity, Xamarin Dot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d521a97579a959b0ce5dfff2e07cdd3f.MainActivity
+Xamarin_Dot.MainActivity;md5d521a97579a959b0ce5dfff2e07cdd3f.MainActivity
+xamarin_dot.MainActivity;md5d521a97579a959b0ce5dfff2e07cdd3f.MainActivity

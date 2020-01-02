@@ -1,0 +1,6 @@
+C:\Users\Jackson\Desktop\CS Testing\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jackson\Desktop\CS Testing\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jackson\Desktop\CS Testing\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Jackson\Desktop\CS Testing\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Desktop\CS Testing\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jackson\Desktop\CS Testing\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

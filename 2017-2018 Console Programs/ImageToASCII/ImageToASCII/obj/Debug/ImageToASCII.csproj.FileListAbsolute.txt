@@ -1,0 +1,20 @@
+C:\Users\ye774\Desktop\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe.config
+C:\Users\ye774\Desktop\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe
+C:\Users\ye774\Desktop\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.pdb
+C:\Users\ye774\Desktop\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csprojResolveAssemblyReference.cache
+C:\Users\ye774\Desktop\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.exe
+C:\Users\ye774\Desktop\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.pdb
+C:\Users\Jackson\Desktop\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe.config
+C:\Users\Jackson\Desktop\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe
+C:\Users\Jackson\Desktop\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.pdb
+C:\Users\Jackson\Desktop\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Desktop\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.exe
+C:\Users\Jackson\Desktop\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.pdb
+C:\Users\Jackson\Desktop\Fun Stuff\Codes\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe.config
+C:\Users\Jackson\Desktop\Fun Stuff\Codes\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe
+C:\Users\Jackson\Desktop\Fun Stuff\Codes\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.pdb
+C:\Users\Jackson\Desktop\Fun Stuff\Codes\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Desktop\Fun Stuff\Codes\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Fun Stuff\Codes\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.exe
+C:\Users\Jackson\Desktop\Fun Stuff\Codes\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.pdb

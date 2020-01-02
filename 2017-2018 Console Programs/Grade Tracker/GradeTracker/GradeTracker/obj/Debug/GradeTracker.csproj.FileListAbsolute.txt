@@ -1,0 +1,37 @@
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\bin\Debug\GradeTracker.dll
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\bin\Debug\GradeTracker.pdb
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\bin\Debug\GradeTracker.GradeTracker.apk
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\bin\Debug\GradeTracker.GradeTracker-Signed.apk
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\GradeTracker.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\GradeTracker.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\GradeTracker.dll
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\GradeTracker.pdb
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\android\bin\GradeTracker.GradeTracker.apk
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\res\layout\main.xml
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\res\values\strings.xml
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\R.cs.flag
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\uploadflags.txt
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\bin\Debug\GradeTracker.dll.mdb
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\obj\Debug\android\assets\GradeTracker.dll.mdb
+C:\Users\Jackson\Desktop\Grade Tracker\GradeTracker\GradeTracker\bin\Debug\GradeTracker.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\GradeTracker.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

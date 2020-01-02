@@ -1,0 +1,4 @@
+GradeTracker.MainActivity, GradeTracker;md58724102d944f9cd9659d7be04bdd01bd.MainActivity
+GradeTracker.MainActivity, GradeTracker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58724102d944f9cd9659d7be04bdd01bd.MainActivity
+GradeTracker.MainActivity;md58724102d944f9cd9659d7be04bdd01bd.MainActivity
+gradetracker.MainActivity;md58724102d944f9cd9659d7be04bdd01bd.MainActivity
